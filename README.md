@@ -1,9 +1,9 @@
 # DH140
 
-### Potential Final Project Topics
+## Potential Final Project Topics
 
 
-#### Research and Data Visualization of Interest
+### Research and Data Visualization of Interest
 There are many areas of research that I find interesting. Below is an example of a topic that I would consider further exploring, as well as a an example of how I would like to present my findings.
 
 *Journal:* [Music preferences as an instrument of emotional self-regulation along the business cycle](https://link.springer.com/article/10.1007/s10824-022-09454-7) 
@@ -15,7 +15,7 @@ This article appeals to me because it connects two seemingly unrelated topics to
 I like how the data visualization is animated to show change throughout time. I find trends that change temporally very interesting and would like to learn how to make animations such as above or how to incoporate a sliding bar across time values to allow the reader to interact with the visualization.
 
 
-#### Additional Potential Topics and Exercises for Exploration
+### Additional Potential Topics and Exercises for Exploration
 I am drawn to particular genres of research. 
 
 List of Humanities Topics:
@@ -29,7 +29,7 @@ Links for Humanities Topics:
 * Crime Rates vs Income: https://www.kaggle.com/datasets/shilpagopal/us-crime-dataset
 * Wealth vs Happiness: https://www.visualcapitalist.com/relationship-money-happiness/
 
-#### Potential Investigation Routes for Available Data
+### Potential Investigation Routes for Available Data
 Below are potential investigation routes for data that is readily available via the following sources:
 
 * https://miriamposner.com/classes/dh201w21/final-project/datasets
