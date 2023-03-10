@@ -1,5 +1,7 @@
 # DH140
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amywzhou/DH140/HEAD)
+
 ## Potential Final Project Topics
 
 
