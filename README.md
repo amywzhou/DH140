@@ -2,6 +2,33 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amywzhou/DH140/HEAD)
 
+
+### Chosen Final Project Topic
+
+### Datasets: 
+* *Nutrition Facts for Starbucks Menu* via [Kaggle](https://www.kaggle.com/datasets/starbucks/starbucks-menu?resource=download), Uploaded to [GitHub](https://github.com/amywzhou/DH140/tree/main/starbucks%20data)
+* *Nutrition Facts for McDonald's Menu* via [Kaggle](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts), Uploaded to [GitHub](https://github.com/amywzhou/DH140/tree/main/mcdonalds%20data)
+
+### Dataset Descriptions:
+*Nutrition Facts for Starbucks Menu* includes the nutrution facts for items at Starbucks. 
+*Nutrition Facts for McDonald's Menu* includes the nutrution facts for items at McDonalds.
+
+### Motivation: 
+To gain insight on the product naming process at Starbucks (and McDonalds, if time permits). To identify if deceitful marketing tactics are being used to convince consumers that items are healthier than they are. 
+
+### Research Questions:
+> What general connotation do the menu items have at Starbucks (and McDonalds), and how does the connotation compare to the item's nutritional value?
+
+> What is the frequency of high frequency sounds and low frequency sounds in product names? How does it compare to its nutritional value for the most unhealthy products?
+
+**After doing receiving inconclusive results in my intial analysis, I am considering switching my research questions to instead analyze how Starbucks and McDonalds differ in nutritional value. I am still exploring the datasets to see what other relationships I can examine.** 
+
+
+
+
+
+
+
 ## Potential Final Project Topics
 
 
