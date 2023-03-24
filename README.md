@@ -30,3 +30,6 @@ Overall, to provide guidance on how to navigate a response to the next global pa
 > Is there a correlation between happiness score and COVID-19 severity?
 
 ### Blog Link:
+
+https://amywzhou.github.io/amysblog/posts/Happiness%20and%20COVID-19%20Project.html
+
